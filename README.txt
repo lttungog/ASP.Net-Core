@@ -1,3 +1,5 @@
+ASP.NET CORE MVC
+
 1. Installation of Nuget (for project organization)
 
 - open Visual Studio
@@ -34,6 +36,8 @@ allowing you to move into the details of that code.
 
 Shift + F11: Steps out of the current function/method, returning to the point where it was called
 
+Alt + F10: Hot Reload (Tools bar of Visual Studio, fire icon) - fast reload of page with newly made changes
+
 =====================================================================
 
 3. Creating a new Controller
@@ -52,3 +56,12 @@ Shift + F11: Steps out of the current function/method, returning to the point wh
 - edit the newly created cshtml file in the new view folder
 - run the main controller (in current example is "HomeController")
 - in the link add "/product"
+
+============================= RECAP 1st LESSON ================================
+
+a. NuGet
+b. Create Project with ASP.net Core MVC
+b1. Controller
+b2. View
+b3. Layout
+b4. Router
